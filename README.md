@@ -75,8 +75,21 @@ Resolved five real-world issues during the build:
 
 ---
 
+## Table of Contents
+
+| # | Section | Description |
+|---|---|---|
+| 01 | [Domain Controller Setup](walkthrough/01-domain-controller-setup.md) | Built and configured DC01 with AD DS, DNS, DHCP, and NAT routing |
+| 02 | [Client Workstation Setup](walkthrough/02-client-workstation-setup.md) | Configured Client01 and joined it to the domain |
+| 03 | [Active Directory Administration](walkthrough/03-active-directory-administration.md) | Created OUs, users, groups, reset passwords, disabled and unlocked accounts |
+| 04 | [Group Policy](walkthrough/04-group-policy.md) | Configured password policy, account lockout, and drive mapping GPOs |
+| 05 | [PowerShell Administration](walkthrough/05-powershell-administration.md) | Managed AD users and groups entirely from the command line |
+| 06 | [Troubleshooting](walkthrough/06-troubleshooting.md) | Diagnosed and resolved five real-world issues encountered during the build |
+
+---
+
 ## Key Takeaways
 - Built and managed a fully functional AD domain from scratch
 - Practiced the most common helpdesk AD tasks in a realistic environment
 - Learned how Group Policy pushes settings across a domain without touching individual machines
-- Developed real troubleshooting instincts by dia
+- Developed real troubleshooting instincts by diagnosing and fixing actual issues during the build
