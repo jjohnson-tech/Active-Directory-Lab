@@ -79,12 +79,12 @@ Resolved five real-world issues during the build:
 
 | # | Section | Description |
 |---|---|---|
-| 01 | [Domain Controller Setup](Active-Directory-Lab/01-domain-controller/README.md) | Built and configured DC01 with AD DS, DNS, DHCP, and NAT routing |
-| 02 | [Client Workstation Setup](Active-Directory-Lab/02-client-workstation-setup/README.md) | Configured Client01 and joined it to the domain |
-| 03 | [Active Directory Administration](Active-Directory-lab/03-active-directory-administration/README.md) | Created OUs, users, groups, reset passwords, disabled and unlocked accounts |
-| 04 | [Group Policy](Active-Directory-Lab/04-group-policy/README.md) | Configured password policy, account lockout, and drive mapping GPOs |
-| 05 | [PowerShell Administration](Active-Directory-Lab/05-powershell-administration/README.md) | Managed AD users and groups entirely from the command line |
-| 06 | [Troubleshooting](Active-Directoy-Lab/06-troubleshooting/README.md) | Diagnosed and resolved five real-world issues encountered during the build |
+| 01 | [Domain Controller Setup](Active-Directory-Lab/01-domain-controller/) | Built and configured DC01 with AD DS, DNS, DHCP, and NAT routing |
+| 02 | [Client Workstation Setup](Active-Directory-Lab/02-client-workstation-setup/) | Configured Client01 and joined it to the domain |
+| 03 | [Active Directory Administration](Active-Directory-lab/03-active-directory-administration/) | Created OUs, users, groups, reset passwords, disabled and unlocked accounts |
+| 04 | [Group Policy](Active-Directory-Lab/04-group-policy/) | Configured password policy, account lockout, and drive mapping GPOs |
+| 05 | [PowerShell Administration](Active-Directory-Lab/05-powershell-administration) | Managed AD users and groups entirely from the command line |
+| 06 | [Troubleshooting](Active-Directoy-Lab/06-troubleshooting/) | Diagnosed and resolved five real-world issues encountered during the build |
 
 ---
 
